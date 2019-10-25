@@ -206,8 +206,7 @@ a {
 .tm-social-links {
   margin-bottom: 27px;
   position: absolute;
-  top: 700px;	
-  bottom: 700px;
+  bottom: 0px;
 }
 
 .tm-social-link {
